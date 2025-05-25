@@ -17,3 +17,5 @@ My solutions to the problem sets and exams for different courses offered on [MIT
 [6.042J: Mathematics for Computer Science](https://github.com/ramanakshay/MITOCW/tree/main/6.042J)
 
 [6.006: Introduction to Algorithms](https://github.com/ramanakshay/MITOCW/tree/main/6.006)
+
+[6.S191: Introduction to Deep Learning](https://github.com/ramanakshay/MITOCW/tree/main/6.S191)
